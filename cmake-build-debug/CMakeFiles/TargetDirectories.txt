@@ -1,0 +1,3 @@
+C:/Users/13047/Desktop/script/cmake-build-debug/CMakeFiles/script.dir
+C:/Users/13047/Desktop/script/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/13047/Desktop/script/cmake-build-debug/CMakeFiles/rebuild_cache.dir
