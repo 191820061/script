@@ -1,0 +1,7 @@
+printString "test"
+printString "hello world"
+Newline
+printString "It's so boring"
+Newline
+printStringLoop "hh" 5
+printStringLoop "cnm" 10
